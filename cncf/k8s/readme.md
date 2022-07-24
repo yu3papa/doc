@@ -8,3 +8,12 @@
 - 06_Docker Networking  Docker bridge network deep dive  Container bridge drive
 - 07_Kubernetes meets Linux - Vishnu Kannan (Google)
 - 08_What Exactly is CNI (Container Network Interface)
+
+## HPA
+- 00_Introduction.
+- 01_ Installing the Metrics Server.
+- 02_Creating the Deployment to be Autoscaled.
+- 03_Stressing the Pod in the Deployment.
+- 04_Applying Horizontal Pod Autoscaler.
+- 05_Viewing HPA in Action.
+- Using Kubernetes Horizontal Pod Autoscaler by reselbob _ Katacoda.pdf
